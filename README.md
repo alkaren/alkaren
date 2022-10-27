@@ -15,47 +15,47 @@ I like writing, teaching and sharing my knowledge with other engineers.
 
 <br>
 
-<h2 align="left" id="egbakou-tech">Favorite Tech</h2>
+<h2 align="left" id="alkaren-tech">Favorite Tech</h2>
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#egbakou-tech">
+      <a href="#alkaren-tech">
         <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" width="48" height="48" alt="Dotnet" />
       </a>
       <br>.NET
     </td>
         <td align="center" width="96">
-      <a href="#egbakou-tech">
+      <a href="#alkaren-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
          <td align="center" width="96">
-      <a href="#egbakou-tech">
+      <a href="#alkaren-tech">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="96">
-      <a href="#egbakou-tech">
+      <a href="#alkaren-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#egbakou-tech" >
+      <a href="#alkaren-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>DevOps
     </td>
     <td align="center" width="96">
-      <a href="#egbakou-tech">
+      <a href="#alkaren-tech">
         <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
       </a>
       <br>Azure
     </td>
      <td align="center" width="96">
-      <a href="#egbakou-tech" >
+      <a href="#alkaren-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
