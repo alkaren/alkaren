@@ -1,11 +1,11 @@
-<h1 align="left" id="egbakou-title">Hi there 👋</h1>
+<h1 align="left" id="alkaren-title">Hi there 👋</h1>
 <h3 align="left">My name is Alkaren</h3>
 I am a Software developer with experience in building applications using .NET.
 I love Open Source, Backend, Serverless, Distributed systems and the challenges associated with them.
 I like writing, teaching and sharing my knowledge with other engineers.
 <br><br>
 
-<a href="#egbakou-title">
+<a href="#alkaren-title">
   <img src="https://github-readme-stats.vercel.app/api?username=alkaren&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Alkaren" align="right" />
 </a>
 
